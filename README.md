@@ -23,8 +23,6 @@ My Digital Content - www.instagram.com/driftingwordz
 
 My Youtube Channel - www.youtube.com/@saurav_ojha
 
-My Pinterest Profile  - www.pinterest.com/lightwordz
-
 My Instagram Profile  - www.instagram.com/light.wordz
 
  &nbsp;
