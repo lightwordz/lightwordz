@@ -21,8 +21,6 @@ I’m excited to share my projects and collaborate with others in the data commu
 
 My Digital Content - www.instagram.com/driftingwordz
 
-My Youtube Channel - www.youtube.com/@saurav_ojha
-
 My Instagram Profile  - www.instagram.com/light.wordz
 
  &nbsp;
