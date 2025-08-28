@@ -19,8 +19,8 @@ I’m excited to share my projects and collaborate with others in the data commu
 
 **Personal Profile**
 
-- My Digital Content - www.instagram.com/driftingwordz
-- Personal Portfolio- https://lightwordz.github.io/saurav-ojha/
+- [Instagram](www.instagram.com/driftingwordz)
+- [Portfolio Website](https://lightwordz.github.io/saurav-ojha/)
 
  &nbsp;
 
