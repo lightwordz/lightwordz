@@ -144,9 +144,6 @@ When I'm not immersed in data, you can find me learning new languages, exploring
 <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dlightwordz%26theme%3Donedark" alt="GitHub Streak" />
 </div>
 
-​🌟 Latest Activity
-​
-
 <div align="center">
 <a href="https://github.com/lightwordz">
 <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D300%26section%3Dheader%26text%3DSaurav%2520Ojha%26fontSize%3D90%26fontAlignY%3D35%26animation%3DfadeIn%26desc%3DData%2520Analyst%2520and%2520Developer%26descAlignY%3D50" alt="Capsule Render" />
@@ -157,53 +154,6 @@ When I'm not immersed in data, you can find me learning new languages, exploring
 <img src="https://www.google.com/search?q=https://img.shields.io/github/followers/lightwordz%3Fstyle%3Dsocial%26label%3DFollow%26maxAge%3D2592000" alt="GitHub followers" />
 </div>
 <p align="center">
-A passionate data analyst with a strong background in statistical analysis and machine learning. I love turning raw data into actionable insights and building projects that have a real-world impact.
-<br />
-When I'm not immersed in data, you can find me learning new languages, exploring creative digital content, or composing music.
-</p>
-🌐 Let's Connect!
-<p align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite%26link%3Dhttps://www.linkedin.com/in/sauravojha" alt="LinkedIn" />&nbsp;
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite%26link%3Dhttps://www.instagram.com/sauravojha" alt="Instagram" />&nbsp;
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite%26link%3Dmailto:sauravojha124%40gmail.com" alt="Email" />&nbsp;
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-222222%3Fstyle%3Dfor-the-badge%26logo%3Dwordpress%26logoColor%3Dwhite%26link%3Dhttps://your-portfolio-website.com" alt="Portfolio" />
-</p>
-🛠️ Skills & Technologies
-<div align="center">
-<h4>Data Science & Machine Learning</h4>
-<img src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com%3Ficon%3Dsklearn%26label%3DScikit-learn%26style%3Dfor-the-badge%26logoColor%3Dwhite%26color%3Dblack" alt="Scikit-learn" />&nbsp;
-<img src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com%3Ficon%3Dpytorch%26label%3DPyTorch%26style%3Dfor-the-badge%26logoColor%3Dwhite%26color%3Dblack" alt="PyTorch" />&nbsp;
-<img src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com%3Ficon%3Dtensorflow%26label%3DTensorFlow%26style%3Dfor-the-badge%26logoColor%3Dwhite%26color%3Dblack" alt="TensorFlow" />&nbsp;
-<img src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com%3Ficon%3Djupyter%26label%3DJupyter%26style%3Dfor-the-badge%26logoColor%3Dwhite%26color%3Dblack" alt="Jupyter" />&nbsp;
-<img src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com%3Ficon%3Dnumpy%26label%3DNumPy%26style%3Dfor-the-badge%26logoColor%3Dwhite%26color%3Dblack" alt="NumPy" />&nbsp;
-<img src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com%3Ficon%3Dpandas%26label%3DPandas%26style%3Dfor-the-badge%26logoColor%3Dwhite%26color%3Dblack" alt="Pandas" />
-</div>
-<div align="center">
-<h4>Databases & Cloud</h4>
-<img src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com%3Ficon%3Daws%26label%3DAWS%26style%3Dfor-the-badge%26logoColor%3Dwhite%26color%3Dblack" alt="AWS" />&nbsp;
-<img src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com%3Ficon%3Dgcp%26label%3DGCP%26style%3Dfor-the-badge%26logoColor%3Dwhite%26color%3Dblack" alt="GCP" />&nbsp;
-<img src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com%3Ficon%3Dmysql%26label%3DMySQL%26style%3Dfor-the-badge%26logoColor%3Dwhite%26color%3Dblack" alt="MySQL" />&nbsp;
-<img src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com%3Ficon%3Dpostgresql%26label%3DPostgreSQL%26style%3Dfor-the-badge%26logoColor%3Dwhite%26color%3Dblack" alt="PostgreSQL" />
-</div>
-
-<div align="center">
-<h4>Web Development & Tools</h4>
-<img src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com%3Ficon%3Dhtml%26label%3DHTML5%26style%3Dfor-the-badge%26logoColor%3Dwhite%26color%3Dblack" alt="HTML5" />&nbsp;
-<img src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com%3Ficon%3Dcss%26label%3DCSS3%26style%3Dfor-the-badge%26logoColor%3Dwhite%26color%3Dblack" alt="CSS3" />&nbsp;
-<img src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com%3Ficon%3Djavascript%26label%3DJavaScript%26style%3Dfor-the-badge%26logoColor%3Dwhite%26color%3Dblack" alt="JavaScript" />&nbsp;
-<img src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com%3Ficon%3Dgit%26label%3DGit%26style%3Dfor-the-badge%26logoColor%3Dwhite%26color%3Dblack" alt="Git" />&nbsp;
-<img src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com%3Ficon%3Dgithub%26label%3DGitHub%26style%3Dfor-the-badge%26logoColor%3Dwhite%26color%3Dblack" alt="GitHub" />
-</div>
-
-📊 My GitHub Stats
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dlightwordz%26show_icons%3Dtrue%26theme%3Dbuefy" alt="GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dlightwordz%26layout%3Dcompact%26theme%3Dbuefy" alt="Top Languages" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dlightwordz%26theme%3Dbuefy" alt="GitHub Streak" />
-</div>
-
-
-<!--This is a professional and creative README.md template for a Data Scientist.It uses a combination of Markdown and inline HTML/CSS for a visually appealing, "box-themed" layout.--><div align="center">Hi there, I'm [Your Name] 👋A Data Scientist driven by curiosity and a passion for turning complex data into actionable insights.</div>👨‍💻 About MeI'm a data enthusiast with a strong foundation in machine learning, statistical modeling, and data visualization. I enjoy exploring large datasets to uncover hidden patterns and build robust predictive models. My goal is to leverage data to solve real-world problems and drive impactful business decisions.📈 I'm currently working on building a [mention a project, e.g., real-time fraud detection model].🌱 I'm always learning and staying up-to-date with the latest trends in [mention a field, e.g., MLOps and Generative AI].📫 You can reach me at: [Your Email]🧠 My Core Skills<!-- Using a flexbox container for a responsive and clean layout of the skill boxes --><div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin-top: 1rem;"><div style="background-color: #e3f2fd; border: 1px solid #90caf9; border-radius: 8px; padding: 10px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;"><h4 style="margin: 0; font-family: 'Inter', sans-serif;">Python</h4></div><div style="background-color: #fce4ec; border: 1px solid #f48fb1; border-radius: 8px; padding: 10px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;"><h4 style="margin: 0; font-family: 'Inter', sans-serif;">SQL</h4></div><div style="background-color: #e8f5e9; border: 1px solid #a5d6a7; border-radius: 8px; padding: 10px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;"><h4 style="margin: 0; font-family: 'Inter', sans-serif;">Machine Learning</h4></div><div style="background-color: #fff3e0; border: 1px solid #ffcc80; border-radius: 8px; padding: 10px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;"><h4 style="margin: 0; font-family: 'Inter', sans-serif;">Data Visualization</h4></div><div style="background-color: #f3e5f5; border: 1px solid #ce93d8; border-radius: 8px; padding: 10px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;"><h4 style="margin: 0; font-family: 'Inter', sans-serif;">Statistical Analysis</h4></div><div style="background-color: #e0f2f1; border: 1px solid #80cbc4; border-radius: 8px; padding: 10px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;"><h4 style="margin: 0; font-family: 'Inter', sans-serif;">Deep Learning</h4></div><div style="background-color: #fbe9e7; border: 1px solid #ffab91; border-radius: 8px; padding: 10px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;"><h4 style="margin: 0; font-family: 'Inter', sans-serif;">Big Data</h4></div><div style="background-color: #e1f5fe; border: 1px solid #4fc3f7; border-radius: 8px; padding: 10px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;"><h4 style="margin: 0; font-family: 'Inter', sans-serif;">Cloud Computing</h4></div></div>🛠️ Tools & TechnologiesLanguages: Python, R, SQLLibraries & Frameworks: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib, SeabornDatabases: PostgreSQL, MongoDBCloud: AWS, GCPVisualization: Tableau, Power BIVersion Control: Git, GitHub💼 Featured Projects[Project Name 1]A brief description of the project.Project Link[Project Name 2]A brief description of the project.Project Link🔗 Connect with Me<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin-top: 1rem;"><a href="https://www.google.com/search?q=https://linkedin.com/in/[your-username]" target="_blank" style="text-decoration: none; color: inherit;"><div style="background-color: #f3f3f3; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"><h4 style="margin: 0; font-family: 'Inter', sans-serif;">LinkedIn</h4></div></a><a href="https://github.com/[your-username]" target="_blank" style="text-decoration: none; color: inherit;"><div style="background-color: #f3f3f3; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"><h4 style="margin: 0; font-family: 'Inter', sans-serif;">GitHub</h4></div></a><a href="https://twitter.com/[your-username]" target="_blank" style="text-decoration: none; color: inherit;"><div style="background-color: #f3f3f3; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"><h4 style="margin: 0; font-family: 'Inter', sans-serif;">Twitter</h4></div></a><a href="https://medium.com/[your-username]" target="_blank" style="text-decoration: none; color: inherit;"><div style="background-color: #f3f3f3; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"><h4 style="margin: 0; font-family: 'Inter', sans-serif;">Medium</h4></div></a></div>
 
 
 
@@ -268,6 +218,7 @@ A passionate data scientist with a strong background in statistical analysis and
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB" />
 </a>
 </div>
+
 📊 My GitHub Stats
 <div align="center">
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dlightwordz%26show_icons%3Dtrue%26theme%3Dbuefy" alt="GitHub Stats" />
