@@ -206,7 +206,72 @@ When I'm not immersed in data, you can find me learning new languages, exploring
 <!--This is a professional and creative README.md template for a Data Scientist.It uses a combination of Markdown and inline HTML/CSS for a visually appealing, "box-themed" layout.--><div align="center">Hi there, I'm [Your Name] 👋A Data Scientist driven by curiosity and a passion for turning complex data into actionable insights.</div>👨‍💻 About MeI'm a data enthusiast with a strong foundation in machine learning, statistical modeling, and data visualization. I enjoy exploring large datasets to uncover hidden patterns and build robust predictive models. My goal is to leverage data to solve real-world problems and drive impactful business decisions.📈 I'm currently working on building a [mention a project, e.g., real-time fraud detection model].🌱 I'm always learning and staying up-to-date with the latest trends in [mention a field, e.g., MLOps and Generative AI].📫 You can reach me at: [Your Email]🧠 My Core Skills<!-- Using a flexbox container for a responsive and clean layout of the skill boxes --><div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin-top: 1rem;"><div style="background-color: #e3f2fd; border: 1px solid #90caf9; border-radius: 8px; padding: 10px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;"><h4 style="margin: 0; font-family: 'Inter', sans-serif;">Python</h4></div><div style="background-color: #fce4ec; border: 1px solid #f48fb1; border-radius: 8px; padding: 10px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;"><h4 style="margin: 0; font-family: 'Inter', sans-serif;">SQL</h4></div><div style="background-color: #e8f5e9; border: 1px solid #a5d6a7; border-radius: 8px; padding: 10px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;"><h4 style="margin: 0; font-family: 'Inter', sans-serif;">Machine Learning</h4></div><div style="background-color: #fff3e0; border: 1px solid #ffcc80; border-radius: 8px; padding: 10px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;"><h4 style="margin: 0; font-family: 'Inter', sans-serif;">Data Visualization</h4></div><div style="background-color: #f3e5f5; border: 1px solid #ce93d8; border-radius: 8px; padding: 10px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;"><h4 style="margin: 0; font-family: 'Inter', sans-serif;">Statistical Analysis</h4></div><div style="background-color: #e0f2f1; border: 1px solid #80cbc4; border-radius: 8px; padding: 10px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;"><h4 style="margin: 0; font-family: 'Inter', sans-serif;">Deep Learning</h4></div><div style="background-color: #fbe9e7; border: 1px solid #ffab91; border-radius: 8px; padding: 10px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;"><h4 style="margin: 0; font-family: 'Inter', sans-serif;">Big Data</h4></div><div style="background-color: #e1f5fe; border: 1px solid #4fc3f7; border-radius: 8px; padding: 10px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;"><h4 style="margin: 0; font-family: 'Inter', sans-serif;">Cloud Computing</h4></div></div>🛠️ Tools & TechnologiesLanguages: Python, R, SQLLibraries & Frameworks: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib, SeabornDatabases: PostgreSQL, MongoDBCloud: AWS, GCPVisualization: Tableau, Power BIVersion Control: Git, GitHub💼 Featured Projects[Project Name 1]A brief description of the project.Project Link[Project Name 2]A brief description of the project.Project Link🔗 Connect with Me<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin-top: 1rem;"><a href="https://www.google.com/search?q=https://linkedin.com/in/[your-username]" target="_blank" style="text-decoration: none; color: inherit;"><div style="background-color: #f3f3f3; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"><h4 style="margin: 0; font-family: 'Inter', sans-serif;">LinkedIn</h4></div></a><a href="https://github.com/[your-username]" target="_blank" style="text-decoration: none; color: inherit;"><div style="background-color: #f3f3f3; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"><h4 style="margin: 0; font-family: 'Inter', sans-serif;">GitHub</h4></div></a><a href="https://twitter.com/[your-username]" target="_blank" style="text-decoration: none; color: inherit;"><div style="background-color: #f3f3f3; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"><h4 style="margin: 0; font-family: 'Inter', sans-serif;">Twitter</h4></div></a><a href="https://medium.com/[your-username]" target="_blank" style="text-decoration: none; color: inherit;"><div style="background-color: #f3f3f3; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"><h4 style="margin: 0; font-family: 'Inter', sans-serif;">Medium</h4></div></a></div>
 
 
+
 <!---
 lightwordz/lightwordz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D300%26section%3Dheader%26text%3DSaurav%2520Ojha%26fontSize%3D90%26fontAlignY%3D35%26animation%3DfadeIn%26desc%3DData%2520Scientist%2520%26%2520Developer%26descAlignY%3D50" alt="Saurav Ojha Banner" />
+</div>
+<br>
+<div align="center">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dlightwordz%26label%3DProfile%2520Views%26color%3Dblue%26style%3Dflat-square" alt="Profile views" />
+<img src="https://www.google.com/search?q=https://img.shields.io/github/followers/lightwordz%3Fstyle%3Dsocial%26label%3DFollow%26maxAge%3D2592000" alt="GitHub followers" />
+</div>
+<p align="center">
+A passionate data scientist with a strong background in statistical analysis and machine learning. I love turning raw data into actionable insights and building projects that have a real-world impact. When I'm not immersed in data, you can find me learning new languages, exploring creative digital content, or composing music.
+</p>
+🌐 Let's Connect!
+<p align="center">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/sauravojha" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+</a>
+<a href="https://www.google.com/search?q=https://www.instagram.com/sauravojha" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:sauravojha124@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.google.com/search?q=https://your-portfolio-website.com" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-222222%3Fstyle%3Dfor-the-badge%26logo%3Dwordpress%26logoColor%3Dwhite" alt="Portfolio" />
+</a>
+</p>
+🛠️ Skills & Technologies
+<div align="center">
+<p><strong>Programming Languages</strong></p>
+<a href="#">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/R-276DC3%3Fstyle%3Dfor-the-badge%26logo%3Dr%26logoColor%3Dwhite" alt="R" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="SQL" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript" />
+</a>
+</div>
+<div align="center">
+<p><strong>Data Science & Machine Learning</strong></p>
+<a href="#">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Numpy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" alt="Numpy" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+</a>
+</div>
+<div align="center">
+<p><strong>Cloud & Databases</strong></p>
+<a href="#">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GCP-4285F4%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-cloud%26logoColor%3Dwhite" alt="GCP" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-336791%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB" />
+</a>
+</div>
+📊 My GitHub Stats
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dlightwordz%26show_icons%3Dtrue%26theme%3Dbuefy" alt="GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dlightwordz%26layout%3Dcompact%26theme%3Dbuefy" alt="Top Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dlightwordz%26theme%3Dbuefy" alt="GitHub Streak" />
+</div>
+
