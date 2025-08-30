@@ -50,13 +50,13 @@ I'm excited to share my projects and collaborate with others in the data communi
   
 | Category | Skills |
 | :---: | :---: |
-| **Languages** | ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL Badge](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white) |
-| **Data Science** | ![Data Science Badge](https://img.shields.io/badge/Data%20Science-4A90E2?style=for-the-badge&logo=science&logoColor=white) |
+| **Languages** | ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL Badge](https://img.shields.io/badge/SQL-008080?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **Data Science** | ![Data Science Badge](https://img.shields.io/badge/Data%20Science-191970?style=for-the-badge&logo=science&logoColor=white) |
 | **Database** | ![Databases Badge](https://img.shields.io/badge/Databases-00758F?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Cloud** | ![Cloud Badge](https://img.shields.io/badge/Cloud-F0801C?style=for-the-badge&logo=amazonaws&logoColor=white) |
+| **Cloud** | ![Cloud Badge](https://img.shields.io/badge/Cloud-2F8C21?style=for-the-badge&logo=amazonaws&logoColor=white) |
 | **Data Visualization** | ![Visualization Badge](https://img.shields.io/badge/Visualization-3B5998?style=for-the-badge&logo=tableau&logoColor=white) |
-| **Machine Learning** | ![Machine Learning Badge](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
-| **Tools** | ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![VSCode Badge](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+| **Machine Learning** | ![Machine Learning Badge](https://img.shields.io/badge/Machine%20Learning-1B0A75?style=for-the-badge&logo=tensorflow&logoColor=white) |
+| **Tools** | ![Git Badge](https://img.shields.io/badge/Git-ff0000?style=for-the-badge&logo=git&logoColor=white) ![Jupyter Badge](https://img.shields.io/badge/Jupyter-FF5F1F?style=for-the-badge&logo=jupyter&logoColor=white) ![VSCode Badge](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
 
 </div>
 
