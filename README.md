@@ -28,16 +28,11 @@ Thank you for checking out my profile
 
 --
 
-Hi there 👋 I'm Saurav Ojha
 <div align="center">
 <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dlightwordz%26style%3Dflat-square" alt="Profile views" />
 <img src="https://www.google.com/search?q=https://img.shields.io/github/followers/lightwordz%3Fstyle%3Dflat%26label%3DFollow%26maxAge%3D2592000" alt="GitHub followers" />
  
 </div>
-📊 Professional Profile & Data Science Journey
-I'm a passionate data analyst with a strong background in statistical analysis and machine learning. I love turning raw data into actionable insights and building projects that have a real-world impact.
-When I'm not immersed in data, you can find me learning new languages, exploring creative digital content, or composing music. I'm excited to share my projects and collaborate with others in the data community!
-🌐 Let's Connect!
 
 <div align="center">
  
